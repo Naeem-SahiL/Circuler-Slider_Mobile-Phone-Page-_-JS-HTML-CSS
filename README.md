@@ -7,6 +7,7 @@ A mobile website page with a beautiful circular  slider which rotates the phone 
 # GIF 
 ![](https://github.com/Naeem-SahiL/Circuler-Slider_Mobile-Phone-Page-_-JS-HTML-CSS/blob/main/ezgif.com-gif-maker.gif)
 
-# Link to site : https://naeem-sahil.github.io/Circuler-Slider_Mobile-Phone-Page-_-JS-HTML-CSS/
+# Link to site 
+https://naeem-sahil.github.io/Circuler-Slider_Mobile-Phone-Page-_-JS-HTML-CSS/
 
 
