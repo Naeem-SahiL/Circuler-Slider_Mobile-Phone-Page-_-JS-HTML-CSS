@@ -4,5 +4,6 @@ A mobile website page with a beautiful circular  slider which rotates the phone 
 ![](https://github.com/Naeem-SahiL/Circuler-Slider_Mobile-Phone-Page-_-JS-HTML-CSS/blob/main/screencapture-file-G-VS-Code-Projects-Phone-page-proj-index-html-2022-02-26-01_28_11.png)
 
 
-#GIF
+# GIF 
+![](https://github.com/Naeem-SahiL/Circuler-Slider_Mobile-Phone-Page-_-JS-HTML-CSS/blob/main/ezgif.com-gif-maker.gif)
 
